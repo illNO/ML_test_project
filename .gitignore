@@ -1,3 +1,4 @@
-/regression/data/
+/regression/data/train.csv
+/regression/data/hidden_test.csv
 .idea/
 .DS_Store

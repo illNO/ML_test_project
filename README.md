@@ -1,7 +1,7 @@
 # Test project
 
 Contains 3 tasks:
-1. Algorithmic task, which is solved using dfs algorithm
+1. Algorithmic task, which is solved using [dfs](https://github.com/illNO/ML_test_project/blob/main/dfs.py) algorithm
 2. General ML Regression task. Solved by LightGBM model
 3. OOP based ML tasks. Implements 3 different types of models to predict image from MNIST dataset.
 
